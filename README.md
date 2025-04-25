@@ -8,9 +8,9 @@
 - I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
 - 📫 You can reach out to me at the given contact details below for further inquiries & discussions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/azhar-hussain-9335bb265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mnomanakhtar)
 
-[![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:azhussain114@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:smnomanakhtar@gmail.com)
 
 ## My Favorite Tools and Technologies ⚙️
 
